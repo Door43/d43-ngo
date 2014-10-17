@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ngo:home|Door43 (ngo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ngo|d43-ngo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ngo/archive/master.zip|d43-ngo.zip]]
+
+**Recent Changes**
+{{changes>ns = ngo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ngo|Ethnologue data]]
+
